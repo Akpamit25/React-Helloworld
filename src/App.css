@@ -2,3 +2,8 @@ h1{
   text-align: center;
   font-size: xx-large;
 }
+
+body{
+  background-color: rgb(177, 243, 243);
+  border: 4px solid black;
+}
