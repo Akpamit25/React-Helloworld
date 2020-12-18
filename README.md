@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+UC7 : Complete the Hello From Bridgelabz Page With Complete Text
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
