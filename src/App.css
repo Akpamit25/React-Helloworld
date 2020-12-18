@@ -28,6 +28,44 @@ margin: 20px auto;
   margin-left: 10px;
   font-size: 14px;
   font-style: italic;
-  color: red;
+  color: whitesmoke;
   text-align: center;
+}
+
+html{
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+}
+html{
+  background-color: rgb(226, 207, 31);
+}
+
+body{
+  width: 800px;
+  margin: 20px auto;
+  /* margin-top: 30ch; */
+  /* margin-bottom: 30ch; */
+  background-color: crimson;
+  text-align: justify;
+  padding : 20px 20px 20px 20px;
+  border : 5px solid white;
+  
+}
+h1{
+  font-size: 40px;
+  text-align: center;
+}
+h1{
+  margin: 10;
+  color: rgb(190, 207, 35);
+  text-shadow: 3px 3px 1px rgb(19, 17, 17);
+}
+img{
+  display: block;
+  margin: auto;
+}
+p,li{
+  font-size: 16px;
+  line-height: 2;
+
 }
