@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+UC3 :To display Bridgelabz logo using Property Binding Technique
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
