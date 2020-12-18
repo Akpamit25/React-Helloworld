@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+UC4 : Using Event Binding to open Bridgelabz Webiste in New Tab
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
