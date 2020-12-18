@@ -1,2 +1,3 @@
-UC1 : Create a Helloworld React App To Display "Hello From Brideglabz"
+UC1 : Create a Helloworld React App To Display "Hello, Amit Here From Capgemini !!".
 
+UC2 : To display "Hello, Amit Here From Capgemini !!" Using One Way Data Bindings.
