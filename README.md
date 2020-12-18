@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+UC2 : To display Hello World Using One Way Data Binding
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
