@@ -1,16 +1,2 @@
 UC1 : Create a Helloworld React App To Display "Hello From Brideglabz"
 
-import './App.css';
-import React from 'react';
-
-class App extends React.Component{
-  render(){
-    return(
-      <div>
-        <h1>Hello From Bridgelabz</h1>
-      </div>
-    );
-  }
-}
-
-export default App;
